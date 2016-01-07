@@ -6,12 +6,12 @@
   "primary_category": "3e0be72528874893a291c925b235e4c5", 
   "created_at": "2015-10-06T19:57:53+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-10-06T21:22:30.913743+00:00", 
+  "modified_at": "2016-01-07T13:14:52.824259+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,11 +20,11 @@
   "id": null, 
   "content": "R\u00e9ponse : **FAIS LE TEST, mon ami(e) !** Si tu penses que tu as peut-\u00eatre le VIH, la meilleure chose \u00e0 faire est de faire le test pour en avoir le c\u0153ur net. Bien que cela puisse \u00eatre effrayant, conna\u00eetre son statut, qu\u2019il soit positif ou n\u00e9gatif, est la premi\u00e8re \u00e9tape pour \u00eatre en bonne sant\u00e9. De plus, plus tu connais ton statut t\u00f4t, mieux c\u2019est. \r\n\r\nLe centre de d\u00e9pistage pourra \u00e9galement te donner des conseils pour rester n\u00e9gatif/n\u00e9gative ou t\u2019indiquer les d\u00e9marches \u00e0 suivre si tu es positif/positive. \r\n\r\nVoici les endroits pr\u00e8s de chez toi qui proposent un d\u00e9pistage : [INFORMATIONS LOCALES]\r\n\r\n**Question suivante :**", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": "ae5ada5fa9cf4f24becffbdb9069a2d6", 
   "published": null, 
-  "position": 10, 
+  "position": 27, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "jai-peut-etre-le-vih-que-faire", 
   "uuid": "a94b34d8962b4d5ca1b6b69f354c4d7f"
