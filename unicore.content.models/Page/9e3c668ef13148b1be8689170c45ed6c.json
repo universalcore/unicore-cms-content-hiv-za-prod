@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Healthy habits", 
+  "language": "eng_GB", 
+  "title": "Puberty", 
+  "primary_category": null, 
+  "created_at": "2016-08-12T11:26:44.055436+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-08-12T11:26:44.055674+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Puberty can be a challenging time for any young person. It is important to maintain a healthy balanced diet to keep up with all your energy demands. A balanced diet involves eating nutrient-rich foods such as vegetables, fruits and lean protein such as fish and chicken. Regular exercise such as walking or running and drinking plenty of water keeps your body healthy.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "puberty", 
+  "uuid": "9e3c668ef13148b1be8689170c45ed6c"
+}
