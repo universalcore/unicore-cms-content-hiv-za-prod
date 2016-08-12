@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Choose your answer: [YES] or [NO]\r\n\r\n", 
+  "language": "eng_GB", 
+  "title": "Can male circumcision reduce my risk of contracting HIV?", 
+  "primary_category": "28d65bd8f8cd4c34b158beae19b2f649", 
+  "created_at": "2016-08-12T11:27:08.230132+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-08-12T11:27:08.230367+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Answer: **YES.** \r\n\r\nThere have been several studies which have shown that men have a reduced risk of contracting HIV after they have been circumcised.  However, it is important to continue to use condoms and other HIV-prevention methods such as getting tested for HIV, and avoiding bodily fluids from someone who is HIV positive.\r\n\r\nNext question :\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-male-circumcision-reduce-my-risk-contracting-hiv", 
+  "uuid": "fd8d2322b9724ef4b1c4c9786066f2f7"
+}
